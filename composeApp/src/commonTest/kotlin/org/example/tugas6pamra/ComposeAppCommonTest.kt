@@ -1,0 +1,12 @@
+package org.example.tugas6pamra
+
+import kotlin.test.Test
+import kotlin.test.assertEquals
+
+class ComposeAppCommonTest {
+
+    @Test
+    fun example() {
+        assertEquals(3, 1 + 2)
+    }
+}
