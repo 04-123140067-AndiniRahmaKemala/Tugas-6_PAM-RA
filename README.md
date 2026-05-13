@@ -10,7 +10,7 @@ A Premium News Reader application built with **Compose Multiplatform** following
 
 
 ##  Video Demo
-Video demo fitur aplikasi dapat diakses melalui tautan berikut : https://youtube.com/shorts/tY5lW042NF0?si=Pq2CzP6IRISevBVE
+Video demo fitur aplikasi dapat diakses melalui tautan berikut : https://drive.google.com/file/d/1HVsJIfJqcraOFDGUnMbinZHkuqUX0s61/view?usp=sharing
 
 ## 🚀 Features
 - **Fetch News API**: Real-time news fetching using Ktor Client.
