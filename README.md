@@ -2,6 +2,16 @@
 
 A Premium News Reader application built with **Compose Multiplatform** following modern Android development standards.
 
+## Dokumentasi Visual
+
+|Read News | Favorite | Home | Search news |
+| :---: | :---: | :---: | :---: |
+|<img width="335" height="709" alt="Screenshot 2026-05-02 004237" src="https://github.com/user-attachments/assets/7ee29e3d-01f5-4a48-8e77-e37e6f7fc2a6" />|<img width="324" height="714" alt="Screenshot 2026-05-02 004400" src="https://github.com/user-attachments/assets/e643a0e0-6983-4483-8696-508693c597e1" />|<img width="328" height="710" alt="Screenshot 2026-05-02 004432" src="https://github.com/user-attachments/assets/57465464-1de4-43b1-af70-7dfd83a8e9d1" />|<img width="328" height="714" alt="Screenshot 2026-05-02 004257" src="https://github.com/user-attachments/assets/4b56f98c-5c72-4171-8adb-ba5f5cd8a603" />|<img width="330" height="695" alt="Screenshot 2026-05-02 004319" src="https://github.com/user-attachments/assets/9133c5e9-0af0-4e1d-a60c-2546ee63ee67" />|
+
+
+##  Video Demo
+Video demo fitur aplikasi dapat diakses melalui tautan berikut : https://youtube.com/shorts/tY5lW042NF0?si=Pq2CzP6IRISevBVE
+
 ## 🚀 Features
 - **Fetch News API**: Real-time news fetching using Ktor Client.
 - **Premium UI/UX**: Modern dark theme with Material 3, Glassmorphism, and Fluid Animations.
